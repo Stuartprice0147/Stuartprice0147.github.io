@@ -1,0 +1,32 @@
+.topbar{
+	position: fixed;
+	width: 1000px;
+	justify-content:center;
+	opacity:0.2;
+}
+.topbar:hover{
+	opacity:0.8;
+	
+}
+body{
+	background-image: url(background_img_001.png);
+	/*background-size:contain;*/
+}
+.container_01{
+	display:flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	flex-direction: row;
+
+}
+.box_01{
+	margin-right: 5px;
+}
+.button_FOM{
+	display: flex;
+	justify-content: center;
+}
+.hover_yea:hover{
+	transform: scale(1.1)
+	
+}
