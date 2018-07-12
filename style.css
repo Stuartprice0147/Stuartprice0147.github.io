@@ -10,6 +10,7 @@
 }
 body{
 	background-image: url(https://stuartprice0147.github.io/Background_img_001.png);
+	background-size: cover;
 	/*background-size:contain;*/
 }
 .container_01{
